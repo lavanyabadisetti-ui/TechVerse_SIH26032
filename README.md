@@ -129,7 +129,7 @@ https://drive.google.com/file/d/15qtKPrgLwTf5GH4_T5Isq5zGDxKFR1jh/view?usp=drive
 👥 Team
 
 Team: TechVerse
-kumari, Vijaya,pavani, Lavanya,meghala,yaswini
+ kumari, Vijaya,pavani, Lavanya,meghala,yaswini
 
 Built as part of the Internal Smart India Hackathon 2026.
 
