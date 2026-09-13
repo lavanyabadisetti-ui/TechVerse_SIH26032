@@ -89,10 +89,6 @@ Farmer Notification
 - Voice Interaction: Speech-to-Text
 - Deployment: Cloud-based platform
 
-📱 Prototype
-
-The prototype demonstrates the major user flows for both farmers and procurement officers.
-
 Main Modules
 
 1. Farmer Dashboard
@@ -122,6 +118,10 @@ Problem Statement: SIH26032
 Project: FarmQ — Smart Farmer Procurement & Queue Management System
 
 Event: Smart India Hackathon 2026
+
+📑presentation 
+https://drive.google.com/file/d/1wx2vNYC0BiraVdpa2ugXVOAnOWi5kiD8/view?usp=drivesdk
+
 
 🎥 Demo
 https://drive.google.com/file/d/15qtKPrgLwTf5GH4_T5Isq5zGDxKFR1jh/view?usp=drivesdk
