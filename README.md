@@ -13,7 +13,11 @@ FarmQ is a digital farmer procurement and queue management solution designed to 
 
 🚀 Live Prototype
 
-🔗 "View FarmQ Prototype" (https://funny-farmq-smart-flow.base44.app/)
+🔗 "View FarmQ Prototype" https://funny-farmq-smart-flow.base44.app/
+
+📑presentation https://drive.google.com/file/d/1wx2vNYC0BiraVdpa2ugXVOAnOWi5kiD8/view?usp=drivesdk
+
+🎥 Demo https://drive.google.com/file/d/15qtKPrgLwTf5GH4_T5Isq5zGDxKFR1jh/view?usp=drivesdk
 
 🎯 Problem
 
